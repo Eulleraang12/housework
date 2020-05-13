@@ -1,0 +1,1 @@
+this simple script, controls the tasks of the inhabitants of a house and modifies the tasks weekly
