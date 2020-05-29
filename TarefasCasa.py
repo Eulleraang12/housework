@@ -99,8 +99,8 @@ def jobs():
 
     email(enviar)
  
-# schedule.every().sunday.at('21:09').do(jobs)
-schedule.every().second.do(jobs)
+schedule.every().sunday.at('21:09').do(jobs)
+# schedule.every().second.do(jobs)
 
 
 
